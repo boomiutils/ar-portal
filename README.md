@@ -1,2 +1,2 @@
-# ar-protal
-Multi-Tenant Identity Repository and Access Request Portal
+# ar-portal
+Multi-Tenant Identity Repository and Access Request Portal Database
